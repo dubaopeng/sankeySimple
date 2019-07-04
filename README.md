@@ -1,6 +1,9 @@
 # sankeySimple
 A simple sankey data visualization base on d3's sankey.js. Two dimensions only.
 
+
+![image1](https://raw.githubusercontent.com/jdk137/sankeySimple/master/sankeySimpleExample.png)
+
 Requirements:
 ===
 
@@ -50,5 +53,4 @@ Data format:
   }
 ```
 
-![image1](https://raw.githubusercontent.com/jdk137/sankeySimple/master/sankeySimpleExample.png)
 
